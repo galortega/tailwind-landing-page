@@ -34,11 +34,10 @@ function Features() {
         <div className="pt-12 md:pt-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Explore the solutions</h1>
+            <h1 className="h2 mb-4">Descubre los beneficios</h1>
             <p className="text-xl text-gray-600">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur excepteur sint occaecat
-              cupidatat.
+              Estos son los BENEFICIOS que vas a recibir cuando accedas al
+              curso.
             </p>
           </div>
 
@@ -50,11 +49,10 @@ function Features() {
               data-aos="fade-right"
             >
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
-                <h3 className="h3 mb-3">Powerful suite of tools</h3>
+                <h3 className="h3 mb-3">Plataforma virtual</h3>
                 <p className="text-xl text-gray-600">
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse
-                  cillum dolore pariatur. Excepteur sint occaecat cupidatat non
-                  proident, sunt in culpa.
+                  Acceso <b>para toda la vida</b> a la plataforma virtual donde
+                  se encuentran todas las lecciones en formato video HD.
                 </p>
               </div>
               {/* Tabs buttons */}
@@ -73,11 +71,12 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">
-                      Building the Simple ecosystem
+                      Certificado personalizado
                     </div>
                     <div className="text-gray-600">
-                      Take collaboration to the next level with security and
-                      administrative features built for teams.
+                      Certificado de finalización de estudios descargable e
+                      imprimible avalado por hotmart y los productores del
+                      curso.
                     </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
@@ -104,11 +103,12 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">
-                      Building the Simple ecosystem
+                      Grupo Privado en Facebook
                     </div>
                     <div className="text-gray-600">
-                      Take collaboration to the next level with security and
-                      administrative features built for teams.
+                      Grupo privado en donde podrás estar en contacto con los
+                      demás alumnos y con la profesora quien les responderá
+                      todas las inquietudes que tengan.
                     </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
@@ -138,11 +138,11 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">
-                      Building the Simple ecosystem
+                      Actualizaciones
                     </div>
                     <div className="text-gray-600">
-                      Take collaboration to the next level with security and
-                      administrative features built for teams.
+                      Acceso ilimitado y para toda la vida a las actualizaciones
+                      que haremos en el futuro.
                     </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">

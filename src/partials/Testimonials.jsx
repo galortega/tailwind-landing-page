@@ -44,12 +44,10 @@ function Testimonials() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4">
-              Trusted by over 20,000 companies all over the world
-            </h2>
+            <h2 className="h2 mb-4">¡Conoce a tu instructora!</h2>
             <p className="text-xl text-gray-600" data-aos="zoom-y-out">
-              Arcu cursus vitae congue mauris rhoncus viverra nibh cras pulvinar
-              mattis blandit libero cursus mattis.
+              Paula Contreras, quien se especializa en la horticultura
+              (producción de hortalizas) desde hace aproximadamente 6 años.
             </p>
           </div>
 
@@ -128,7 +126,7 @@ function Testimonials() {
               <div className="text-center px-12 py-8 pt-20 mx-4 md:mx-0">
                 <div className="absolute top-0 -mt-8 left-1/2 transform -translate-x-1/2">
                   <svg
-                    className="absolute top-0 right-0 -mt-3 -mr-8 w-16 h-16 fill-current text-blue-500"
+                    className="absolute top-0 right-0 -mt-3 -mr-8 w-16 h-16 fill-current text-green-500"
                     viewBox="0 0 64 64"
                     aria-hidden="true"
                     xmlns="http://www.w3.org/2000/svg"
@@ -144,17 +142,16 @@ function Testimonials() {
                   />
                 </div>
                 <blockquote className="text-xl font-medium mb-4">
-                  “ I love this product and would recommend it to anyone. Could
-                  be not easier to use, and our multiple websites are wonderful.
-                  We get nice comments all the time. “
+                  “ Al terminar este curso, serás un agricultor urbano capaz de
+                  producir tus propios alimentos desde casa. “
                 </blockquote>
                 <cite className="block font-bold text-lg not-italic mb-1">
-                  Darya Finger
+                  Paula Contreras
                 </cite>
                 <div className="text-gray-600">
-                  <span>CEO & Co-Founder</span>{" "}
-                  <a className="text-blue-600 hover:underline" href="#0">
-                    @Dropbox
+                  <span>Licenciada en turismo y hotelería</span>{" "}
+                  <a className="text-green-600 hover:underline" href="#0">
+                    @Ritz_Hotel
                   </a>
                 </div>
               </div>

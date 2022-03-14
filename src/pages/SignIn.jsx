@@ -52,7 +52,7 @@ function SignIn() {
                         </label>
                         <Link
                           to="reset-password"
-                          className="text-sm font-medium text-blue-600 hover:underline"
+                          className="text-sm font-medium text-green-600 hover:underline"
                         >
                           Having trouble signing in?
                         </Link>
@@ -80,7 +80,7 @@ function SignIn() {
                   </div>
                   <div className="flex flex-wrap -mx-3 mt-6">
                     <div className="w-full px-3">
-                      <button className="btn text-white bg-blue-600 hover:bg-blue-700 w-full">
+                      <button className="btn text-white bg-green-600 hover:bg-green-700 w-full">
                         Sign in
                       </button>
                     </div>
@@ -135,7 +135,7 @@ function SignIn() {
                   Don’t you have an account?{" "}
                   <Link
                     to="/signup"
-                    className="text-blue-600 hover:underline transition duration-150 ease-in-out"
+                    className="text-green-600 hover:underline transition duration-150 ease-in-out"
                   >
                     Sign up
                   </Link>

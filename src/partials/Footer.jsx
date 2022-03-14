@@ -229,7 +229,7 @@ function Footer() {
                         aria-hidden="true"
                       ></span>
                       <svg
-                        className="w-3 h-3 fill-current text-blue-600 mx-3 flex-shrink-0"
+                        className="w-3 h-3 fill-current text-green-600 mx-3 flex-shrink-0"
                         viewBox="0 0 12 12"
                         xmlns="http://www.w3.org/2000/svg"
                       >
@@ -303,7 +303,7 @@ function Footer() {
           <div className="text-sm text-gray-600 mr-4">
             Made by{" "}
             <a
-              className="text-blue-600 hover:underline"
+              className="text-green-600 hover:underline"
               href="https://cruip.com/"
             >
               Cruip
