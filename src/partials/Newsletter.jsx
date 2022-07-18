@@ -124,7 +124,7 @@ function Newsletter() {
                   {/* Success message */}
                   {/* <p className="text-sm text-gray-400 mt-3">Thanks for subscribing!</p> */}
                   <p className="text-sm text-gray-400 mt-3">
-                    7 días de garantía incondicional. Pagos procesados y garantizados por hotmart.
+                    7 años de garantía incondicional.
                   </p>
                 </form>
               </div>
