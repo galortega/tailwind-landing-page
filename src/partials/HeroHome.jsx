@@ -48,9 +48,9 @@ function HeroHome() {
               className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4"
               data-aos="zoom-y-out"
             >
-              Aprende el arte de la{" "}
+              Aprende el arte del{" "}
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-green-500 to-teal-400">
-                agricultura
+                Cálculo
               </span>
             </h1>
             <div className="max-w-3xl mx-auto">
@@ -59,8 +59,7 @@ function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay="150"
               >
-                Inicia tu negocio y tu propia huerta orgánica desde tu casa ,
-                libre de químicos.
+                Inicia tu viaje y aprende a resolver problemas matemáticos en cuestión de minutos.
               </p>
               <div
                 className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center"

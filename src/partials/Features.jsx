@@ -36,8 +36,7 @@ function Features() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h2 mb-4">Descubre los beneficios</h1>
             <p className="text-xl text-gray-600">
-              Estos son los BENEFICIOS que vas a recibir cuando accedas al
-              curso.
+              Estos son los BENEFICIOS:
             </p>
           </div>
 
@@ -49,10 +48,9 @@ function Features() {
               data-aos="fade-right"
             >
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
-                <h3 className="h3 mb-3">Plataforma virtual</h3>
+                <h3 className="h3 mb-3">Clases personalizadas</h3>
                 <p className="text-xl text-gray-600">
-                  Acceso <b>para toda la vida</b> a la plataforma virtual donde
-                  se encuentran todas las lecciones en formato video HD.
+                  Avanza a tu <b>ritmo</b> y aprende a amar los números con la modalidad que tú elijas.
                 </p>
               </div>
               {/* Tabs buttons */}
@@ -75,8 +73,7 @@ function Features() {
                     </div>
                     <div className="text-gray-600">
                       Certificado de finalización de estudios descargable e
-                      imprimible avalado por hotmart y los productores del
-                      curso.
+                      imprimible avalado por el profe.
                     </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
@@ -103,12 +100,10 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">
-                      Grupo Privado en Facebook
+                      Clases de guitarra
                     </div>
                     <div className="text-gray-600">
-                      Grupo privado en donde podrás estar en contacto con los
-                      demás alumnos y con la profesora quien les responderá
-                      todas las inquietudes que tengan.
+                      ¿Alguna vez has escuchado que la música es de matemáticos?
                     </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
@@ -138,11 +133,10 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">
-                      Actualizaciones
+                      Acceso ilimitado
                     </div>
                     <div className="text-gray-600">
-                      Acceso ilimitado y para toda la vida a las actualizaciones
-                      que haremos en el futuro.
+                      Acceso para toda la vida a las clases del profe.
                     </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">

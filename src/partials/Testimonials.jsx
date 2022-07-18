@@ -44,10 +44,9 @@ function Testimonials() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4">¡Conoce a tu instructora!</h2>
+            <h2 className="h2 mb-4">¡Conoce a tu instructor!</h2>
             <p className="text-xl text-gray-600" data-aos="zoom-y-out">
-              Paula Contreras, quien se especializa en la horticultura
-              (producción de hortalizas) desde hace aproximadamente 6 años.
+              Galo Ortega, ingeniero especializado en el desarrollo y otras actividades lúdicas.
             </p>
           </div>
 
@@ -142,16 +141,15 @@ function Testimonials() {
                   />
                 </div>
                 <blockquote className="text-xl font-medium mb-4">
-                  “ Al terminar este curso, serás un agricultor urbano capaz de
-                  producir tus propios alimentos desde casa. “
+                  “ Al terminar este curso vas a dominar toda clase de cálculos y así no te harás bola con el vuelto. “
                 </blockquote>
                 <cite className="block font-bold text-lg not-italic mb-1">
-                  Paula Contreras
+                  Galo Ortega
                 </cite>
                 <div className="text-gray-600">
-                  <span>Licenciada en turismo y hotelería</span>{" "}
+                  <span>Ingeniero en Computación</span>{" "}
                   <a className="text-green-600 hover:underline" href="#0">
-                    @Ritz_Hotel
+                    @galortega
                   </a>
                 </div>
               </div>
