@@ -50,7 +50,7 @@ function Features() {
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
                 <h3 className="h3 mb-3">Clases personalizadas</h3>
                 <p className="text-xl text-gray-600">
-                  Avanza a tu <b>ritmo</b> y aprende a amar los números con la modalidad que tú elijas.
+                  Avanza a tu <b>ritmo</b> y aprende el arte de los números usando la modalidad que tú elijas.
                 </p>
               </div>
               {/* Tabs buttons */}
