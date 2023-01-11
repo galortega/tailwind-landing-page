@@ -1,7 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import Header from "../partials/Header";
+import Header from '../partials/Header';
+import Banner from '../partials/Banner';
 
 function SignUp() {
   return (
@@ -153,6 +154,9 @@ function SignUp() {
           </div>
         </section>
       </main>
+
+      <Banner />
+
     </div>
   );
 }

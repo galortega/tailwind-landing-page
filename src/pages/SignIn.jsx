@@ -1,7 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import Header from "../partials/Header";
+import Header from '../partials/Header';
+import Banner from '../partials/Banner';
 
 function SignIn() {
   return (
@@ -44,18 +45,8 @@ function SignIn() {
                   <div className="flex flex-wrap -mx-3 mb-4">
                     <div className="w-full px-3">
                       <div className="flex justify-between">
-                        <label
-                          className="block text-gray-800 text-sm font-medium mb-1"
-                          htmlFor="password"
-                        >
-                          Password
-                        </label>
-                        <Link
-                          to="reset-password"
-                          className="text-sm font-medium text-green-600 hover:underline"
-                        >
-                          Having trouble signing in?
-                        </Link>
+                        <label className="block text-gray-800 text-sm font-medium mb-1" htmlFor="password">Password</label>
+                        <Link to="/reset-password" className="text-sm font-medium text-blue-600 hover:underline">Having trouble signing in?</Link>
                       </div>
                       <input
                         id="password"
@@ -145,6 +136,9 @@ function SignIn() {
           </div>
         </section>
       </main>
+
+      <Banner />
+
     </div>
   );
 }
